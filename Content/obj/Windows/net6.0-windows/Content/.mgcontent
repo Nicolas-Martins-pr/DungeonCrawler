@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/bg.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/fleche.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-0.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-0f.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-1.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-1f.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-2.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-2b.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-2bf.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-2f.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-3.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-3b.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-3bf.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/side-3f.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/wall-1.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/wall-2.png</File>
+    <File>C:/Users/Nico/source/repos/DungeonCrawler/DungeonCrawler/Content/wall-3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
